@@ -1,0 +1,8 @@
+com\lyq\ssm\domain\Role.class
+com\lyq\ssm\domain\orders.class
+com\lyq\ssm\domain\Member.class
+com\lyq\ssm\domain\Permission.class
+com\lyq\ssm\domain\UserInfo.class
+com\lyq\ssm\domain\Traveller.class
+com\lyq\ssm\domain\product.class
+com\lyq\ssm\domain\SysLog.class

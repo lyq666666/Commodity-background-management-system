@@ -1,0 +1,7 @@
+com\lyq\ssm\controller\SysLogController.class
+com\lyq\ssm\controller\userController.class
+com\lyq\ssm\controller\LogAop.class
+com\lyq\ssm\controller\OrderController.class
+com\lyq\ssm\controller\PermissionController.class
+com\lyq\ssm\controller\RoleController.class
+com\lyq\ssm\controller\ProductController.class

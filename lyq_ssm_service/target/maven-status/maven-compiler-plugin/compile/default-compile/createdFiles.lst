@@ -1,0 +1,12 @@
+com\lyq\ssm\service\Impl\RoleServiceImpl.class
+com\lyq\ssm\service\Impl\SysLogServiceImpl.class
+com\lyq\ssm\service\SysLogService.class
+com\lyq\ssm\service\Impl\OrdersServiceImpl.class
+com\lyq\ssm\service\userService.class
+com\lyq\ssm\service\Impl\PermissionServiceImpl.class
+com\lyq\ssm\service\Impl\userServiceImpl.class
+com\lyq\ssm\service\ProductService.class
+com\lyq\ssm\service\OrdersService.class
+com\lyq\ssm\service\RoleService.class
+com\lyq\ssm\service\PermissionService.class
+com\lyq\ssm\service\Impl\ProductServiceImpl.class
